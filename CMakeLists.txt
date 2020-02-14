@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 
-set(KF5_VERSION "5.68.0") # handled by release scripts
-project(BreezeIcons VERSION ${KF5_VERSION})
+set(KF5_VERSION "2020.02.0.0") # handled by release scripts
+project(InspireIcons VERSION ${KF5_VERSION})
 
 # ECM setup
 include(FeatureSummary)
@@ -26,7 +26,7 @@ else()
     set(BINARY_ICONS_RESOURCE_OPTION_DEFAULT ON)
 endif()
 
-option(BINARY_ICONS_RESOURCE "Install Qt binary resource files containing breeze icons (breeze-icons.rcc, breeze-icons-dark.rcc)" ${BINARY_ICONS_RESOURCE_OPTION_DEFAULT})
+option(BINARY_ICONS_RESOURCE "Install Qt binary resource files containing Inspire icons (inspire-icons.rcc, inspire-icons-dark.rcc)" ${BINARY_ICONS_RESOURCE_OPTION_DEFAULT})
 option(SKIP_INSTALL_ICONS "Skip installing the icons files" OFF)
 
 if(BINARY_ICONS_RESOURCE)
@@ -36,12 +36,12 @@ if(BINARY_ICONS_RESOURCE)
 
 function(generate_binary_resource target outfile)
     set(RESOURCES_WORKING_DIR ${CMAKE_CURRENT_BINARY_DIR}/res)
-    set(RESOURCE_FILE ${RESOURCES_WORKING_DIR}/breeze-${target}.qrc)
-    set(BINARY_RESOURCE_FILE ${CMAKE_CURRENT_BINARY_DIR}/breeze-${target}.rcc)
+    set(RESOURCE_FILE ${RESOURCES_WORKING_DIR}/inspire-${target}.qrc)
+    set(BINARY_RESOURCE_FILE ${CMAKE_CURRENT_BINARY_DIR}/inspire-${target}.rcc)
 
     get_target_property(QT_RCC_EXECUTABLE Qt5::rcc LOCATION)
 
-    add_custom_target(breeze-${target}-mkdir
+    add_custom_target(inspire-${target}-mkdir
         COMMAND ${CMAKE_COMMAND} -E make_directory ${RESOURCES_WORKING_DIR}
     )
     add_custom_command(OUTPUT ${RESOURCE_FILE}
@@ -57,7 +57,7 @@ function(generate_binary_resource target outfile)
             $<TARGET_FILE:qrcAlias> -i ${CMAKE_CURRENT_BINARY_DIR}/tmp.qrc -o ${RESOURCE_FILE}
 
         WORKING_DIRECTORY ${RESOURCES_WORKING_DIR}
-        DEPENDS breeze-${target}-mkdir
+        DEPENDS inspire-${target}-mkdir
     )
     add_custom_command(OUTPUT ${BINARY_RESOURCE_FILE}
         COMMAND ${QT_RCC_EXECUTABLE} --binary
@@ -67,7 +67,7 @@ function(generate_binary_resource target outfile)
         WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
     )
 
-    add_custom_target(breeze-${target}-rcc ALL DEPENDS ${BINARY_RESOURCE_FILE})
+    add_custom_target(inspire-${target}-rcc ALL DEPENDS ${BINARY_RESOURCE_FILE})
 
     set(${outfile} ${BINARY_RESOURCE_FILE} PARENT_SCOPE)
 endfunction()
@@ -79,7 +79,7 @@ if(NOT WIN32)
     if(SH_EXE AND XMLLINT_EXE)
         file(GLOB_RECURSE SVGS "icons/*.svg")
         file(GLOB_RECURSE DARK_SVGS "icons-dark/*.svg")
-        add_custom_target(breeze-validate-svg ALL
+        add_custom_target(inspire-validate-svg ALL
             COMMAND ${SH_EXE} ${CMAKE_SOURCE_DIR}/validate_svg.sh
             WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
             SOURCES ${SVGS} ${DARK_SVGS}

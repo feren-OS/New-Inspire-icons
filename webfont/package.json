@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "grunt": "^1.0.4",
-    "grunt-webfont": "^1.7.2"
-  }
-}

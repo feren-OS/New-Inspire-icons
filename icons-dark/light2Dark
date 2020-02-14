@@ -1,5 +1,5 @@
 #!/bin/sh
-# convert light colors to breeze-dark colors
+# convert light colors to Inspire Dark colors
 
 find -name "*.svg" -o -name "*.SVG" | while read i;
 do 
