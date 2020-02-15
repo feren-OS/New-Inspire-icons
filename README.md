@@ -27,3 +27,5 @@ You are free to fork this icon set and make Pull Requests to contribute to the i
 - Wireframe icons should be tweaked to follow the colour scheme
 
 - Folder icons should be tweaked to follow the colour scheme
+
+[1]: https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign
