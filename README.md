@@ -8,7 +8,7 @@ This repository is for an upcoming redesign of the icon set. The current version
 
 ## Guidelines
 
-The Inspire icon set mostly adheres to the [HIG section][1] of the KDE Community Wiki, however there is plans in the future to implement a Feren OS HIG for this icon set and more..
+The Inspire icon set mostly adheres to the [HIG section][1] of the KDE Website, however there is plans in the future to implement a Feren OS HIG for this icon set and more..
 
 ## Issues
 
@@ -28,4 +28,4 @@ You are free to fork this icon set and make Pull Requests to contribute to the i
 
 - Folder icons should be tweaked to follow the colour scheme
 
-[1]: https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign
+[1]: https://hig.kde.org/style/icons/index.html
