@@ -1,22 +1,29 @@
-# Breeze Icons
+# Inspire Icons
 
 ## Introduction
 
-Breeze-icons is a freedesktop.org compatible icon theme. It's developed by the KDE Community as part of KDE Frameworks 5 and it's used by default in KDE Plasma 5 and KDE Applications.
+Inspire is a freedesktop.org compatible icon theme. It's developed for Feren OS and is used by default in Feren OS.
+
+This repository is for an upcoming redesign of the icon set. The current version of the icon set can be found at https://github.com/feren-OS/Inspire-Icon-Theme.
 
 ## Guidelines
 
-The Breeze icons guidelines are described in the [HIG section][1] of the KDE Community Wiki.
+The Inspire icon set mostly adheres to the [HIG section][1] of the KDE Community Wiki, however there is plans in the future to implement a Feren OS HIG for this icon set and more..
 
 ## Issues
 
-To report actual bugs and requests for new icons fill a bug in [KDE Bugtracker][2].
+To report actual bugs and requests for new icons, wait until this icon set's redesign's first release which'll enable Issues for your requests to be filled in on.
 
 ## Contribute
 
-You can contact the team through [visual-design@kde.org][3] mailing list or Breeze icons' [Telegram group][4].
+You are free to fork this icon set and make Pull Requests to contribute to the icon set at any time, as long as you adhere to the licensing and respect the following guidelines, on top of the HIG:
 
-[1]: https://community.kde.org/KDE_Visual_Design_Group/HIG/IconDesign
-[2]: https://bugs.kde.org/enter_bug.cgi?product=Breeze
-[3]: https://mail.kde.org/mailman/listinfo/visual-design
-[4]: https://telegram.me/breezeicons
+- No third-party application icons should be themed
+
+- Icons should convey what they are for / do when used (especially Actions icons)
+
+- Icon sizes where wireframe icons are prevalent should stick to the wireframe icon style established
+
+- Wireframe icons should be tweaked to follow the colour scheme
+
+- Folder icons should be tweaked to follow the colour scheme
