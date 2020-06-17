@@ -14,7 +14,7 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
         color:#006aff;
       }
-      .ColorScheme-HighlightText {
+      .ColorScheme-HighlightedText {
         color:#ffffff;
       }</style>
   <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.797" gradientTransform="matrix(.3125 0 0 .55529 4 -7.8776)" gradientUnits="userSpaceOnUse">
@@ -39,16 +39,16 @@
  <path id="Combined-Shape" class="ColorScheme-Highlight" d="m24.163 10.903h16.585c1.796 0 3.252 1.456 3.252 3.252v23.593c0 1.7961-1.456 3.252-3.252 3.252h-33.496c-1.796 0-3.252-1.4559-3.252-3.252v-27.495c0-1.796 1.456-3.252 3.252-3.252h12.683z" fill="currentColor"/>
  <path d="m24.163 10.903h16.585c1.796 0 3.252 1.456 3.252 3.252v23.593c0 1.7961-1.456 3.252-3.252 3.252h-33.496c-1.796 0-3.252-1.4559-3.252-3.252v-27.495c0-1.796 1.456-3.252 3.252-3.252h12.683z" fill-opacity=".15686" stroke-width=".3252"/>
  <rect transform="rotate(-3.6017)" x="6.2879" y="15.455" width="32" height="25" rx="2.5" fill-opacity=".15686" filter="url(#filter1134)" stroke-width=".27116"/>
- <rect class="ColorScheme-HighlightText" transform="rotate(-3.6017)" x="6.2879" y="15.455" width="32" height="25" rx="2.5" color="#ffffff" fill="currentColor"/>
+ <rect class="ColorScheme-HighlightedText" transform="rotate(-3.6017)" x="6.2879" y="15.455" width="32" height="25" rx="2.5" fill="currentColor"/>
  <path id="Rectangle" class="ColorScheme-Highlight" d="m4 16h40v21.622c0 1.8716-1.3938 3.3784-3.125 3.3784h-33.75c-1.7312 0-3.125-1.5068-3.125-3.3784v-21.622z" fill="currentColor"/>
  <rect x="4" y="12" width="40" height="4" fill="url(#linearGradient1893)"/>
  <path d="m4 16h40v21.622c0 1.8716-1.3938 3.3784-3.125 3.3784h-33.75c-1.7312 0-3.125-1.5068-3.125-3.3784v-21.622z" fill="url(#linearGradient887)" stroke-width=".30317"/>
  <rect x="26.5" y="24.8" width="1" height="10" rx=".5" ry=".5" fill-opacity=".15686"/>
- <rect class="ColorScheme-HighlightText" x="26.5" y="23.8" width="1" height="10" rx=".5" ry=".5" color="#ffffff" fill="currentColor"/>
+ <rect class="ColorScheme-HighlightedText" x="26.5" y="23.8" width="1" height="10" rx=".5" ry=".5" fill="currentColor"/>
  <rect x="20.5" y="24.419" width="1" height="14" rx=".5" ry=".5283" fill-opacity=".15686"/>
- <rect class="ColorScheme-HighlightText" x="20.5" y="23.419" width="1" height="14" rx=".5" ry=".5283" color="#ffffff" fill="currentColor"/>
+ <rect class="ColorScheme-HighlightedText" x="20.5" y="23.419" width="1" height="14" rx=".5" ry=".5283" fill="currentColor"/>
  <circle cx="24" cy="25" r="4" fill-opacity=".15686"/>
- <circle class="ColorScheme-HighlightText" cx="24" cy="24" r="4" color="#ffffff" fill="currentColor"/>
+ <circle class="ColorScheme-HighlightedText" cx="24" cy="24" r="4" fill="currentColor"/>
  <circle cx="24" cy="24" r="4" fill="url(#linearGradient1085)"/>
  <circle class="ColorScheme-Highlight" cx="24" cy="24" r="1.5" fill="currentColor"/>
 </svg>
