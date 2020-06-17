@@ -3,7 +3,7 @@
         <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
         color:#006aff;
       }
-      .ColorScheme-HighlightText {
+      .ColorScheme-HighlightedText {
         color:#ffffff;
       }</style>
         <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.796612" gradientTransform="matrix(.45312498 0 0 .55529409 2.9999997 -.87763828)" gradientUnits="userSpaceOnUse">
@@ -25,7 +25,7 @@
     <path id="Combined-Shape" class="ColorScheme-Highlight" d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111776,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111776,7 7.7154466,7 H 26.105688 Z" fill="currentColor"/>
     <path d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111765,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111765,7 7.7154466,7 H 26.105688 Z" fill-opacity=".15686275" stroke-width=".47488499"/>
     <rect x="10" y="18.020411" width="44" height="33.999996" rx="3.4375" fill-opacity=".15686275" filter="url(#filter881)" stroke-width=".37080997"/>
-    <rect class="ColorScheme-HighlightText" x="10" y="18.020412" width="44" height="33.999996" rx="3.4374998" color="#ffffff" fill="currentColor"/>
+    <rect class="ColorScheme-HighlightedText" x="10" y="18.020412" width="44" height="33.999996" rx="3.4374998" fill="currentColor"/>
     <path id="Rectangle" class="ColorScheme-Highlight" d="m3 23h58v29.405406c0 2.545405-2.020939 4.594594-4.531251 4.594594h-48.937499c-2.5103121 0-4.5312496-2.049189-4.5312496-4.594594v-29.405406z" fill="currentColor"/>
     <path d="m3 22.999746h58v29.405406c0 2.545406-2.02094 4.594594-4.531251 4.594594h-48.937499c-2.5103125 0-4.53125-2.049188-4.53125-4.594594v-29.405406z" fill="url(#linearGradient887)" stroke-width=".42573458"/>
     <rect x="3" y="19" width="58" height="4" fill="url(#linearGradient1893)"/>
