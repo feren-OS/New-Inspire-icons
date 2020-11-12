@@ -1,8 +1,5 @@
 <svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.backgroundcol {
-        color:#77b81a;
-      }</style>
   <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.797" gradientTransform="matrix(.21875 0 0 .27765 2 .061182)" gradientUnits="userSpaceOnUse">
    <stop stop-opacity=".15686" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
@@ -15,15 +12,15 @@
    <feGaussianBlur stdDeviation="0.475"/>
   </filter>
  </defs>
- <path class="backgroundcol" d="m2 13h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z" fill="currentColor"/>
+ <path d="m2 13h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z" fill="#77b81a"/>
  <path d="m2 13h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z" fill-opacity=".27451" stroke-width=".20292"/>
  <title>base_folder</title>
  <desc>Created with Sketch.</desc>
- <path id="Combined-Shape" class="backgroundcol" d="m16.114 6.7547h11.61c1.2572 0 2.2764 1.0278 2.2764 2.2956v16.654c0 1.2678-1.0192 2.2956-2.2764 2.2956h-23.447c-1.2572 0-2.2764-1.0277-2.2764-2.2956v-19.409c0-1.2678 1.0192-2.2956 2.2764-2.2956h8.878z" fill="currentColor"/>
+ <path id="Combined-Shape" d="m16.114 6.7547h11.61c1.2572 0 2.2764 1.0278 2.2764 2.2956v16.654c0 1.2678-1.0192 2.2956-2.2764 2.2956h-23.447c-1.2572 0-2.2764-1.0277-2.2764-2.2956v-19.409c0-1.2678 1.0192-2.2956 2.2764-2.2956h8.878z" fill="#77b81a"/>
  <path d="m16.114 6.7547h11.61c1.2572 0 2.2764 1.0278 2.2764 2.2956v16.654c0 1.2678-1.0192 2.2956-2.2764 2.2956h-23.447c-1.2572 0-2.2764-1.0277-2.2764-2.2956v-19.409c0-1.2678 1.0192-2.2956 2.2764-2.2956h8.878z" fill-opacity=".15686" stroke-width=".2286"/>
  <rect x="5" y="9.5" width="22" height="16" rx="1.7188" fill-opacity=".15686" filter="url(#filter883)" stroke-width=".17987"/>
  <rect x="5" y="9.5" width="22" height="16" rx="1.7187" fill="#fff"/>
- <path id="Rectangle" class="backgroundcol" d="m2 12h28v13.838c0 1.1978-0.97562 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622 0-13.838 0 0-1e-7 -13.838z" fill="currentColor"/>
+ <path id="Rectangle" d="m2 12h28v13.838c0 1.1978-0.97562 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622 0-13.838 0 0-1e-7 -13.838z" fill="#77b81a"/>
  <path d="m2 12h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z" fill="url(#linearGradient887)" stroke-width=".20292"/>
  <rect x="2" y="10" width="28" height="2" fill="url(#linearGradient1893)"/>
 </svg>
