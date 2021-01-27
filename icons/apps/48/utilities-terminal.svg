@@ -1,24 +1,17 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <linearGradient id="linearGradient874">
+        <linearGradient id="linearGradient923" x1="3" x2="45" y1="8" y2="40" gradientUnits="userSpaceOnUse">
             <stop stop-color="#3125af" offset="0"/>
             <stop stop-color="#5ba6ee" offset=".36666667"/>
             <stop stop-color="#afe859" offset="1"/>
-        </linearGradient>
-        <linearGradient id="linearGradient923" x1="3" x2="45" y1="8" y2="40" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient874"/>
-        <linearGradient id="linearGradient933" x1="43" x2="43" y1="38" y2="10" gradientTransform="translate(-386.72845,506.21259)" gradientUnits="userSpaceOnUse">
-            <stop offset="0"/>
-            <stop stop-color="#1a1a1a" offset="1"/>
         </linearGradient>
     </defs>
     <g transform="translate(0,1)" stroke-width=".956183">
         <path d="m3 35v2c0 1.662 1.338 3 3 3h36c1.662 0 3-1.338 3-3v-2z" fill="url(#linearGradient923)"/>
         <path d="m3 35v2c0 1.662 1.338 3 3 3h36c1.662 0 3-1.338 3-3v-2z" fill-opacity=".156863"/>
     </g>
-    <g>
-        <rect x="3" y="8" width="42" height="32" rx="3" ry="3" fill="url(#linearGradient923)" stroke-width=".956183"/>
-        <rect x="5" y="10" width="38" height="28" rx="2" ry="2" fill="url(#linearGradient933)"/>
-        <path d="m9 15.089764v-1.089764l6 2.503007v0.993987l-6 2.503006v-1.095763l4.824976-1.898274z" fill="#fff"/>
-        <path d="m22 19v1h-6v-1z" fill="#fff"/>
-    </g>
+    <rect x="3" y="8" width="42" height="32" rx="3" ry="3" fill="url(#linearGradient923)" stroke-width=".956183"/>
+    <rect x="4" y="9" width="40" height="30" rx="2.1052632" ry="2.1428571" fill="#0a0a0a" stroke-width="1.06199"/>
+    <path d="m8 14.089764v-1.089764l6 2.503007v0.993987l-6 2.503006v-1.095763l4.824976-1.898274z" fill="#fff"/>
+    <path d="m21 18v1h-6v-1z" fill="#fff"/>
 </svg>
