@@ -1,51 +1,232 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>base_folder</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
-<!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
- <title>base_folder</title>
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg58"
+   sodipodi:docname="application-zip.svg"
+   inkscape:version="1.0.1 (1.0.1+r73)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     id="namedview60"
+     showgrid="false"
+     inkscape:zoom="16.96875"
+     inkscape:cx="22.01105"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg58" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>base_folder</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">base_folder</title>
+  <defs
+     id="defs17">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Highlight {
         color:#006aff;
       }
       .ColorScheme-HighlightText {
         color:#ffffff;
       }</style>
-  <linearGradient id="linearGradient866" x1="4" x2="4" y1="10.23" y2="7.4896" gradientTransform="matrix(.7 0 0 1.5149 -.8 -6.5629)" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".15686" offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient890" x1="4" x2="4" y1="41" y2="10.903" gradientTransform="matrix(.7 0 0 .70539 -.8 -.92074)" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".054902" offset="0"/>
-   <stop stop-color="#000008" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <path class="ColorScheme-Highlight" d="m2 13h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z" fill="currentColor"/>
- <desc>Created with Sketch.</desc>
- <path d="m2 13h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z" fill-opacity=".27451" stroke-width=".20292"/>
- <path id="Combined-Shape" class="ColorScheme-Highlight" d="m16.114 6.7546h11.61c1.2572 0 2.2764 1.0278 2.2764 2.2956v16.654c0 1.2678-1.0192 2.2956-2.2764 2.2956h-23.447c-1.2572 0-2.2764-1.0277-2.2764-2.2956v-19.409c0-1.2678 1.0192-2.2956 2.2764-2.2956h8.878z" fill="currentColor"/>
- <path d="m16.114 6.7546h11.61c1.2572 0 2.2764 1.0278 2.2764 2.2956v16.654c0 1.2678-1.0192 2.2956-2.2764 2.2956h-23.447c-1.2572 0-2.2764-1.0277-2.2764-2.2956v-19.409c0-1.2678 1.0192-2.2956 2.2764-2.2956h8.878z" fill-opacity=".15686" stroke-width=".2286"/>
- <path d="m4.1751 4.0001h8.9985c2.9671 2.7841-0.01914 0.019329 2.9671 2.7841l13.859 5.7109c-2.1751 2.1916-0.9701 2.1916-2.1751 2.1916h-23.65c-1.205 0-2.1751-0.97747-2.1751-2.1916v-6.3034c0-1.2142 0.9701-2.1916 2.1751-2.1916z" fill="url(#linearGradient866)"/>
- <rect class="ColorScheme-Highlight" x="2" y="6.7701" width="28" height="21.23" ry="2.3332" fill="currentColor"/>
- <rect x="2" y="6.7701" width="28" height="21.23" ry="2.3332" fill="url(#linearGradient890)"/>
- <rect x="23.252" y="19.107" width="3.2482" height="5.8928" rx=".48148" fill-opacity=".15686"/>
- <g fill="currentColor">
-  <rect class="ColorScheme-Highlight" x="23.826" y="23.042" width="2.1" height="1.3889" rx=".44235"/>
-  <rect class="ColorScheme-HighlightText" x="23.252" y="18.107" width="3.2482" height="5.8928" rx=".48148"/>
-  <rect class="ColorScheme-HighlightText" x="23" y="8.0001" width="2.0305" height="1.5006" rx=".43927"/>
-  <rect class="ColorScheme-HighlightText" x="24.384" y="9.6372" width="2.0305" height="1.5006" rx=".43927"/>
-  <rect class="ColorScheme-HighlightText" x="23" y="11.233" width="2.0305" height="1.5006" rx=".43927"/>
-  <rect class="ColorScheme-HighlightText" x="24.384" y="12.87" width="2.0305" height="1.5006" rx=".43927"/>
-  <rect class="ColorScheme-HighlightText" x="23" y="14.504" width="2.0305" height="1.5006" rx=".43927"/>
-  <rect class="ColorScheme-HighlightText" x="24.384" y="16.141" width="2.0305" height="1.5006" rx=".43927"/>
-  <rect class="ColorScheme-Highlight" x="23.826" y="22.042" width="2.1" height="1.3889" rx=".44235"/>
- </g>
- <path d="m24.268 22.042h1.2153c0.24506 0 0.44235 0.21338 0.44235 0.47842v0.52785l-2.1-0.01188v-0.51596c0-0.26505 0.19729-0.47842 0.44235-0.47842z" fill-opacity=".15686"/>
+    <linearGradient
+       id="linearGradient866"
+       x1="4"
+       x2="4"
+       y1="10.23"
+       y2="7.4896"
+       gradientTransform="matrix(.7 0 0 1.5149 -.8 -6.5629)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-opacity=".15686"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient890"
+       x1="4"
+       x2="4"
+       y1="41"
+       y2="10.903"
+       gradientTransform="matrix(.7 0 0 .70539 -.8 -.92074)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-opacity=".054902"
+         offset="0"
+         id="stop12" />
+      <stop
+         stop-color="#000008"
+         stop-opacity="0"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     d="m2 13h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z"
+     fill="currentColor"
+     id="path19" />
+  <desc
+     id="desc21">Created with Sketch.</desc>
+  <path
+     d="m2 13h28v13.838c0 1.1978-0.97563 2.1622-2.1875 2.1622h-23.625c-1.2119 0-2.1875-0.96432-2.1875-2.1622z"
+     fill-opacity=".27451"
+     stroke-width=".20292"
+     id="path23" />
+  <path
+     id="Combined-Shape"
+     class="ColorScheme-Highlight"
+     d="m16.114 6.7546h11.61c1.2572 0 2.2764 1.0278 2.2764 2.2956v16.654c0 1.2678-1.0192 2.2956-2.2764 2.2956h-23.447c-1.2572 0-2.2764-1.0277-2.2764-2.2956v-19.409c0-1.2678 1.0192-2.2956 2.2764-2.2956h8.878z"
+     fill="currentColor" />
+  <path
+     d="m16.114 6.7546h11.61c1.2572 0 2.2764 1.0278 2.2764 2.2956v16.654c0 1.2678-1.0192 2.2956-2.2764 2.2956h-23.447c-1.2572 0-2.2764-1.0277-2.2764-2.2956v-19.409c0-1.2678 1.0192-2.2956 2.2764-2.2956h8.878z"
+     fill-opacity=".15686"
+     stroke-width=".2286"
+     id="path26" />
+  <path
+     d="m4.1751 4.0001h8.9985c2.9671 2.7841-0.01914 0.019329 2.9671 2.7841l13.859 5.7109c-2.1751 2.1916-0.9701 2.1916-2.1751 2.1916h-23.65c-1.205 0-2.1751-0.97747-2.1751-2.1916v-6.3034c0-1.2142 0.9701-2.1916 2.1751-2.1916z"
+     fill="url(#linearGradient866)"
+     id="path28" />
+  <rect
+     class="ColorScheme-Highlight"
+     x="2"
+     y="6.7701"
+     width="28"
+     height="21.23"
+     ry="2.3332"
+     fill="currentColor"
+     id="rect30" />
+  <rect
+     x="2"
+     y="6.7701"
+     width="28"
+     height="21.23"
+     ry="2.3332"
+     fill="url(#linearGradient890)"
+     id="rect32" />
+  <rect
+     x="23.252"
+     y="19.107"
+     width="3.2482"
+     height="5.8928"
+     rx=".48148"
+     fill-opacity=".15686"
+     id="rect34" />
+  <g
+     fill="currentColor"
+     id="g54">
+    <rect
+       class="ColorScheme-Highlight"
+       x="23.826"
+       y="23.042"
+       width="2.0999999"
+       height="1.3889"
+       rx="0.44235"
+       id="rect36"
+       style="fill:currentColor" />
+    <rect
+       x="23.252001"
+       y="18.107"
+       width="3.2481999"
+       height="5.8927999"
+       rx="0.48148"
+       id="rect38"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       x="23"
+       y="8.0001001"
+       width="2.0304999"
+       height="1.5006"
+       rx="0.43926999"
+       id="rect40"
+       style="fill:#ffffff;fill-opacity:1"
+       class="ColorScheme-HighlightText" />
+    <rect
+       x="24.384001"
+       y="9.6372004"
+       width="2.0304999"
+       height="1.5006"
+       rx="0.43926999"
+       id="rect42"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       x="23"
+       y="11.233"
+       width="2.0304999"
+       height="1.5006"
+       rx="0.43926999"
+       id="rect44"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       x="24.384001"
+       y="12.87"
+       width="2.0304999"
+       height="1.5006"
+       rx="0.43926999"
+       id="rect46"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       x="23"
+       y="14.504"
+       width="2.0304999"
+       height="1.5006"
+       rx="0.43926999"
+       id="rect48"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       x="24.384001"
+       y="16.141001"
+       width="2.0304999"
+       height="1.5006"
+       rx="0.43926999"
+       id="rect50"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       class="ColorScheme-Highlight"
+       x="23.826"
+       y="22.042"
+       width="2.0999999"
+       height="1.3889"
+       rx="0.44235"
+       id="rect52"
+       style="fill:currentColor" />
+  </g>
+  <path
+     d="m24.268 22.042h1.2153c0.24506 0 0.44235 0.21338 0.44235 0.47842v0.52785l-2.1-0.01188v-0.51596c0-0.26505 0.19729-0.47842 0.44235-0.47842z"
+     fill-opacity=".15686"
+     id="path56" />
 </svg>
