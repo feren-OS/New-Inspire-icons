@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 256 256">
-  <defs
-     id="defs4">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -36,53 +32,14 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:currentColor;fill-opacity:0.5;stroke:none"
-     d="m 16,10 224,0 c 3.324,0 6,2.676 6,6 l 0,224 c 0,3.324 -2.676,6 -6,6 l -224,0 c -3.324,0 -6,-2.676 -6,-6 L 10,16 c 0,-3.324 2.676,-6 6,-6 z"
-     class="ColorScheme-ButtonText"
-     id="rect4240" />
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     d="m 16,12 224,0 c 2.216,0 4,1.784 4,4 l 0,224 c 0,2.216 -1.784,4 -4,4 l -224,0 c -2.216,0 -4,-1.784 -4,-4 L 12,16 c 0,-2.216 1.784,-4 4,-4 z"
-     class="ColorScheme-Background"
-     id="rect4238" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:16.81597328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="20.936768"
-     y="38.318382"
-     id="text11719"
-     sodipodi:linespacing="125%"
-     class="ColorScheme-Text"><tspan
-       sodipodi:role="line"
-       id="tspan11721"
-       x="20.936768"
-       y="38.318382"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:currentColor;fill-opacity:1"
-       class="ColorScheme-Text">Storage Volume</tspan></text>
-  <rect
-     style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none"
-     id="rect7886"
-     width="216"
-     height="1"
-     x="20.000031"
-     y="50.000023"
-     class="ColorScheme-Text" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:16.81597328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="67.905029"
-     y="75.223167"
-     id="text11719-4"
-     sodipodi:linespacing="125%"
-     class="ColorScheme-Text"><tspan
-       sodipodi:role="line"
-       id="tspan11721-6"
-       x="67.905029"
-       y="75.223167"
-       style="color:#4d4d4d;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:currentColor;fill-opacity:1"
-       class="ColorScheme-Text">removable media</tspan></text>
+      }</style>
+    </defs>
+    <rect x="10" y="10" width="236" height="236" rx="16.857143" ry="16.857143" fill="#ff1e1e" stroke-width="8.4306"/>
+    <g fill="#fff" stroke-width="8.42857" aria-label="256px">
+        <path d="m40.748312 144.37878h28.140137v-4.79166h-20.734838v-0.34848l10.018934-10.71591c7.666663-8.21117 9.931813-12.0445 9.931813-16.98863 0-6.88257-5.575755-12.371201-13.41666-12.371201-7.819124 0-13.765144 5.314391-13.765144 13.155291h5.140149c0-5.0748 3.288824-8.45075 8.450753-8.45075 4.835225 0 8.537874 2.96212 8.537874 7.66666 0 4.11648-2.417612 7.16572-7.579541 12.80682l-14.723477 16.11741z"/>
+        <path d="m91.80122 144.98863c8.49431 0 14.72348-6.27272 14.72348-14.8106 0-8.64677-6.01136-14.98484-14.200753-14.98484-3.00568 0-5.924239 1.06724-7.753784 2.52652h-0.261363l1.568181-13.1553h18.643929v-4.791663h-23.17423l-2.700756 21.954533 5.053028 0.60985c1.851324-1.3286 5.009467-2.28693 7.753783-2.26515 5.684657 0.0436 9.844695 4.35606 9.844695 10.19318 0 5.72821-4.007576 9.93181-9.49621 9.93181-4.573861 0-8.21117-2.94034-8.624995-6.9697h-5.227271c0.326705 6.79546 6.185603 11.76136 13.852266 11.76136z"/>
+        <path d="m129.96026 144.98863c9.01704 0.1089 14.89772-6.68655 14.89772-14.98484 0-8.62499-6.38162-14.8106-14.02651-14.8106-4.59564 0-8.53787 2.24337-10.97726 5.92424h-0.34849c0.0218-10.95548 4.24716-17.24999 11.15151-17.24999 4.70454 0 7.53598 2.96212 8.53788 7.05682h5.31439c-1.08902-7.01326-6.35985-11.848483-13.85227-11.848483-10.04071 0-16.20454 8.886363-16.20454 24.742413 0 16.48768 8.18939 21.08332 15.50757 21.17044zm0-4.79166c-5.59753 0-9.69223-4.76989-9.67045-10.10606 0.0218-5.33617 4.3125-10.10605 9.84469-10.10605 5.46686 0 9.49621 4.48674 9.49621 10.01893 0 5.66288-4.20359 10.19318-9.67045 10.19318z"/>
+        <path d="m153.48294 156.92423h5.14015v-17.68559h0.4356c1.13258 1.82954 3.31061 5.83711 9.75758 5.83711 8.36363 0 14.20075-6.70833 14.20075-17.33711 0-10.54166-5.83712-17.24999-14.28788-17.24999-6.53408 0-8.53787 4.00757-9.67045 5.75h-0.60984v-5.31439h-4.96591zm5.05303-29.27271c0-7.49242 3.3106-12.54545 9.58333-12.54545 6.53408 0 9.75757 5.48864 9.75757 12.54545 0 7.14394-3.31061 12.80681-9.75757 12.80681-6.18561 0-9.58333-5.22727-9.58333-12.80681z"/>
+        <path d="m193.29715 110.92426h-5.92424l10.62878 16.72726-10.62878 16.72726h5.92424l8.01515-12.98105 8.01515 12.98105h5.92424l-10.80303-16.72726 10.80303-16.72726h-5.92424l-8.01515 13.67802z"/>
+    </g>
 </svg>
