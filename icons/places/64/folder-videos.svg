@@ -1,33 +1,33 @@
 <svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
+    <defs>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
         color:#006aff;
       }
       .ColorScheme-HighlightedText {
         color:#ffffff;
       }</style>
-  <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.79661" gradientTransform="matrix(.453125 0 0 .5552941 3 -.8776383)" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".1568628" offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient887" x1="12" x2="12" y1="39.41328" y2="17.414" gradientTransform="matrix(1.45 0 0 1.545454 -14.4 -3.912799)" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".05490196" offset="0"/>
-   <stop stop-color="#000008" stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <filter id="filter881" x="-.05318182" y="-.06882353" width="1.106364" height="1.137647" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.97499995"/>
-  </filter>
- </defs>
- <path class="ColorScheme-Highlight" d="m3 24h58v29.40541c0 2.545406-2.020939 4.594594-4.53125 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z" fill="currentColor"/>
- <title>base_folder</title>
- <desc>Created with Sketch.</desc>
- <path d="M 3,24 H 61 V 53.405406 C 61,55.950812 58.979061,58 56.46875,58 H 7.53125 C 5.020938,58 3,55.950812 3,53.405406 Z" fill-opacity=".27451" stroke-width=".425735"/>
- <path id="Combined-Shape" class="ColorScheme-Highlight" d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111776,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111776,7 7.7154466,7 H 26.105688 Z" fill="currentColor"/>
- <path d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111765,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111765,7 7.7154466,7 H 26.105688 Z" fill-opacity=".1568628" stroke-width=".474885"/>
- <rect x="10" y="18.02041" width="44" height="34" rx="3.4375" fill-opacity=".1568628" filter="url(#filter881)" stroke-width=".37081"/>
- <rect x="10" y="18.02041" width="44" height="34" rx="3.4375" fill="#fff"/>
- <path id="Rectangle" class="ColorScheme-Highlight" d="m3 23h58v29.40541c0 2.545405-2.020939 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049189-4.53125-4.594594v-29.40541z" fill="currentColor"/>
- <path d="m3 22.99975h58v29.40541c0 2.545406-2.02094 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z" fill="url(#linearGradient887)" stroke-width=".4257346"/>
- <rect x="3" y="19" width="58" height="4" fill="url(#linearGradient1893)"/>
- <path id="Shape" d="m22.26578 50.99975h19.46844c0.95216 0 1.724111-0.779328 1.724111-1.740588v-18.51883c0-0.961258-0.771951-1.740586-1.724111-1.740586h-19.46844c-0.952159 0-1.724113 0.779328-1.724113 1.740586v18.51874c0 0.961258 0.771953 1.740668 1.724113 1.740668zm17.45106-19.94801h1.870751v2.094563h-1.870751zm0 4.040077h1.870751v2.094564h-1.870751zm0 4.039994h1.870751v2.094564h-1.870751zm0 4.040078h1.870751v2.094564h-1.870751zm0 4.039995h1.870751v2.094563h-1.870751zm-17.30442-16.33024h1.870749v2.094483h-1.870749zm0 4.039995h1.870749v2.094563h-1.870749zm0 4.040077h1.870749v2.094566h-1.870749zm0 4.039994h1.870749v2.094564h-1.870749zm0 4.040078h1.870749v2.094564h-1.870749zm3.741494-16.1894h11.69217v8.33684h-11.69217zm0 10.18947h11.69217v8.105261h-11.69217z" fill="#fff" stroke-width=".465416"/>
+        <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.79661" gradientTransform="matrix(.453125 0 0 .5552941 3 -.8776383)" gradientUnits="userSpaceOnUse">
+            <stop stop-opacity=".1568628" offset="0"/>
+            <stop stop-opacity="0" offset="1"/>
+        </linearGradient>
+        <linearGradient id="linearGradient887" x1="12" x2="12" y1="39.41328" y2="17.414" gradientTransform="matrix(1.45 0 0 1.545454 -14.4 -3.912799)" gradientUnits="userSpaceOnUse">
+            <stop stop-opacity=".05490196" offset="0"/>
+            <stop stop-color="#000008" stop-opacity="0" offset="1"/>
+        </linearGradient>
+        <filter id="filter881" x="-.05318182" y="-.06882353" width="1.106364" height="1.137647" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="0.97499995"/>
+        </filter>
+    </defs>
+    <path class="ColorScheme-Highlight" d="m3 24h58v29.40541c0 2.545406-2.020939 4.594594-4.53125 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z" fill="currentColor"/>
+    <title>base_folder</title>
+    <desc>Created with Sketch.</desc>
+    <path d="M 3,24 H 61 V 53.405406 C 61,55.950812 58.979061,58 56.46875,58 H 7.53125 C 5.020938,58 3,55.950812 3,53.405406 Z" fill-opacity=".27451" stroke-width=".425735"/>
+    <path id="Combined-Shape" class="ColorScheme-Highlight" d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111776,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111776,7 7.7154466,7 H 26.105688 Z" fill="currentColor"/>
+    <path d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111765,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111765,7 7.7154466,7 H 26.105688 Z" fill-opacity=".1568628" stroke-width=".474885"/>
+    <rect x="10" y="18.02041" width="44" height="34" rx="3.4375" fill-opacity=".1568628" filter="url(#filter881)" stroke-width=".37081"/>
+    <rect x="10" y="18.02041" width="44" height="34" rx="3.4375" fill="#fff"/>
+    <path id="Rectangle" class="ColorScheme-Highlight" d="m3 23h58v29.40541c0 2.545405-2.020939 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049189-4.53125-4.594594v-29.40541z" fill="currentColor"/>
+    <path d="m3 22.99975h58v29.40541c0 2.545406-2.02094 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z" fill="url(#linearGradient887)" stroke-width=".4257346"/>
+    <rect x="3" y="19" width="58" height="4" fill="url(#linearGradient1893)"/>
+    <path id="Shape" d="m23.504681 49.999752h16.990639c0.830976 0 1.50468-0.70848 1.50468-1.582352v-16.835297c0-0.873871-0.673704-1.582351-1.50468-1.582351h-16.99064c-0.830976 0-1.504681 0.70848-1.504681 1.582351v16.835215c0 0.87387 0.673705 1.582425 1.504681 1.582425zm15.230017-18.134551h1.632655v1.904148h-1.632655zm0 3.672796h1.632655v1.904149h-1.632655zm0 3.672722h1.632655v1.904148h-1.632655zm0 3.672797h1.632655v1.904149h-1.632655zm0 3.672722h1.632655v1.904148h-1.632655zm-15.102041-14.84567h1.632654v1.904075h-1.632654zm0 3.672722h1.632654v1.904148h-1.632654zm0 3.672797h1.632654v1.90415h-1.632654zm0 3.672721h1.632654v1.904149h-1.632654zm0 3.672797h1.632654v1.904149h-1.632654zm3.265305-14.717633h10.204076v7.578944h-10.204076zm0 9.263153h10.204076v7.368417h-10.204076z" fill="#fff" stroke-width=".414557"/>
 </svg>

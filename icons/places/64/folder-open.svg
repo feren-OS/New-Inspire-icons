@@ -6,7 +6,7 @@
       .ColorScheme-HighlightedText {
         color:#ffffff;
       }</style>
-        <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.79661" gradientTransform="matrix(.453125 0 0 .5552941 3 7.1223617)" gradientUnits="userSpaceOnUse">
+        <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.79661" gradientTransform="matrix(.453125 0 0 1.1105882 3 -16.755277)" gradientUnits="userSpaceOnUse">
             <stop stop-opacity=".1568628" offset="0"/>
             <stop stop-opacity="0" offset="1"/>
         </linearGradient>
@@ -28,5 +28,5 @@
     <rect x="10" y="18.02041" width="44" height="34" rx="3.4375" fill="#fff"/>
     <path id="Rectangle" class="ColorScheme-Highlight" d="m3 31.000125h58v21.405285c0 2.545405-2.020939 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049189-4.53125-4.594594z" fill="currentColor"/>
     <path d="m3 30.999875h58v21.405285c0 2.545406-2.02094 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594z" fill="url(#linearGradient887)" stroke-width=".425735"/>
-    <rect x="3" y="27" width="58" height="4" fill="url(#linearGradient1893)"/>
+    <rect x="3" y="23" width="58" height="8" fill="url(#linearGradient1893)" stroke-width="1.41421"/>
 </svg>

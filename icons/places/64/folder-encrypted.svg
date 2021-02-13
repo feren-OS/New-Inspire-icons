@@ -24,5 +24,5 @@
     <path d="m3 22.99975h58v29.40541c0 2.545406-2.02094 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z" fill="url(#linearGradient887)" stroke-width=".4257346"/>
     <rect x="3" y="19" width="58" height="4" fill="url(#linearGradient1893)"/>
     <path d="m3 23v4h4v-4zm4 4v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h2v-4h-2zm0 4v4h2v-4zm-4 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4z" fill="#fff" fill-opacity=".14" stroke-linecap="round" stroke-width="4"/>
-    <path d="m32 29.5c-4.432001 0-7 2.568-7 7v2h-1c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-1v-2c0-4.432-2.568-7-7-7zm0 2c3.323999 0 5 1.676 5 5v2h-10v-2c0-3.324 1.675999-5 5-5z" fill="#fff"/>
+    <path d="m32 29.999752c-4.432001 0-7 2.568-7 7v2h-1c-0.554 0-1 0.446-1 1v9c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-9c0-0.554-0.446-1-1-1h-1v-2c0-4.432-2.568-7-7-7zm0 2c3.323999 0 5 1.676 5 5v2h-10v-2c0-3.324 1.675999-5 5-5z" fill="#fff"/>
 </svg>
