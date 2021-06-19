@@ -1,0 +1,13 @@
+So it's basically KDE's HIG for Breeze icons, except:
+- Shadows aren't to be cast on icons that go towards the bottom-right
+- NO bottom-right cast shadows unlike Breeze, basically
+- Shadows at the bottom of icons are still necessary
+
+In-icon shadows:
+- Stuff stuck onto the icon physically shouldn't cast shadows on the thing it's stuck to (e.g.: 'access' has the Accessibility logo stuck onto the circle)
+- Stuff that pertrudes out of the icon physically should cast a flat down shadow (e.g.: the gear in 'preferences-system')
+- If there's a rim around the icon border pertruding, like the 'preferences-system' rim, a soft shadow should be cast inside the rim area
+- If the item causing a downwards shadow (e.g.: 'accessories-text-editor') is semi-transparent, use a soft shadow. Otherwise use a flat shadow.
+- All upwards shadows are soft shadows (like the folder icons)
+
+Don't override brand icons (excluding some of the pre-installed Feren OS applications - for ones that need a custom design badly pretty much, basically), yada-yada it's all otherwise currently in the README.md file.
