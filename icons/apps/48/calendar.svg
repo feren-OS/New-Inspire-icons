@@ -1,9 +1,50 @@
-<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-    <rect x="4" y="4" width="40" height="40" rx="2.8571429" ry="2.8571429" fill="#006aff" stroke-width="1.42892"/>
-    <g fill="#fff" stroke-width="1.42857" aria-label="48px">
-        <path d="m8.7726862 25.562507h4.5644168v1.988646h1.11743v-1.988646h1.325764v-1.041672h-1.325764v-6.6667h-1.420462l-4.2613848 6.742458zm1.2689458-1.041672v-0.07576l3.219713-5.094722h0.07576v5.17048z"/>
-        <path d="m20.666666 27.68373c1.936563 0 3.286001-1.131635 3.295471-2.708347-0.0095-1.226332-0.828603-2.268004-1.875009-2.462134v-0.05682c0.909095-0.236744 1.505689-1.1269 1.515159-2.159102-0.0095-1.47728-1.250007-2.57577-2.935621-2.57577-1.704554 0-2.94509 1.09849-2.935621 2.57577-0.0095 1.032202 0.587124 1.922358 1.515159 2.159102v0.05682c-1.065346 0.19413-1.884479 1.235802-1.875009 2.462134-0.0095 1.576712 1.339969 2.708347 3.295471 2.708347zm0-5.643968c-1.060611 0-1.808721-0.662882-1.799251-1.666675-0.0095-0.984853 0.71023-1.628796 1.799251-1.628796 1.070081 0 1.789782 0.643943 1.799251 1.628796-0.0095 1.003793-0.757579 1.666675-1.799251 1.666675zm0 4.602296c-1.330499 0-2.149632-0.681822-2.140162-1.723494-0.0095-1.093755 0.894891-1.875009 2.140162-1.875009 1.226332 0 2.130692 0.781254 2.140162 1.875009-0.0095 1.041672-0.828602 1.723494-2.140162 1.723494z"/>
-        <path d="m25.799251 30.27844h1.11743v-3.844717h0.0947c0.246214 0.39773 0.719701 1.268946 2.121223 1.268946 1.818191 0 3.087137-1.458341 3.087137-3.768958 0-2.291678-1.268946-3.750019-3.106076-3.750019-1.420462 0-1.85607 0.871217-2.102284 1.250006h-0.132579v-1.155308h-1.079551zm1.098491-6.363669c0-1.628796 0.7197-2.727286 2.083343-2.727286 1.420462 0 2.121223 1.193188 2.121223 2.727286 0 1.553038-0.719701 2.784105-2.121223 2.784105-1.344703 0-2.083343-1.136369-2.083343-2.784105z"/>
-        <path d="m34.454562 20.27839h-1.287885l2.310618 3.636381-2.310618 3.636382h1.287885l1.742433-2.821984 1.742433 2.821984h1.287886l-2.348497-3.636382 2.348497-3.636381h-1.287886l-1.742433 2.973499z"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
+    color:#006aff;
+    }
+    .ColorScheme-HighlightedText {
+    color:#ffffff;
+    }</style>
+        <linearGradient id="linearGradient1042" x1="32" x2="32" y1="16" y2="44" gradientTransform="translate(48,-5)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#e7e7e7" offset="0"/>
+            <stop stop-color="#dcdcdc" offset="1"/>
+        </linearGradient>
+        <linearGradient id="linearGradient1000" x1="36" x2="36" y1="8" y2="14" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1042"/>
+        <linearGradient id="linearGradient1008" x1="10" x2="10" y1="8" y2="14" gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1042"/>
+        <linearGradient id="linearGradient1031" x1="4" x2="4" y1="14" y2="41" gradientTransform="translate(48,-5)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#f1f1f1" offset="0"/>
+            <stop stop-color="#dedede" offset="1"/>
+        </linearGradient>
+    </defs>
+    <path d="m4 15v24c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3v-24z" fill="#a8a8a8" stroke-width="1.42892"/>
+    <path d="m4 14v24c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3v-24z" fill="url(#linearGradient1031)" stroke-width="1.42892"/>
+    <path class="ColorScheme-Highlight" d="m7 9c-1.662 0-3 1.338-3 3v3h40v-3c0-1.662-1.338-3-3-3z" fill="currentColor"/>
+    <g fill-opacity=".22" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <rect x="15" y="18" width="4" height="4" opacity=".99989"/>
+        <rect x="22" y="18" width="4" height="4" opacity=".99989"/>
+        <rect x="29" y="18" width="4" height="4" opacity=".99989"/>
+    </g>
+    <rect class="ColorScheme-Highlight" x="36" y="18" width="4" height="4" fill="currentColor"/>
+    <g fill-opacity=".22" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <rect x="8" y="26" width="4" height="4" opacity=".99989"/>
+        <rect x="15" y="26" width="4" height="4" opacity=".99989"/>
+        <rect x="22" y="26" width="4" height="4" opacity=".99989"/>
+        <rect x="29" y="26" width="4" height="4" opacity=".99989"/>
+    </g>
+    <rect class="ColorScheme-Highlight" x="36" y="26" width="4" height="4" fill="currentColor"/>
+    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <g fill-opacity=".22">
+            <rect x="8" y="34" width="4" height="4" opacity=".99989"/>
+            <rect x="15" y="34" width="4" height="4" opacity=".99989"/>
+            <rect x="22" y="34" width="4" height="4" opacity=".99989"/>
+            <rect x="29" y="34" width="4" height="4" opacity=".99989"/>
+        </g>
+        <rect x="36" y="8" width="2" height="6" rx="1" ry="1" fill-opacity=".16" opacity=".99989"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <rect x="36" y="7" width="2" height="6" rx="1" ry="1" fill="url(#linearGradient1000)" opacity=".99989"/>
+        <rect x="10" y="8" width="2" height="6" rx="1" ry="1" fill-opacity=".16" opacity=".99989"/>
+        <rect x="10" y="7" width="2" height="6" rx="1" ry="1" fill="url(#linearGradient1008)" opacity=".99989"/>
     </g>
 </svg>
