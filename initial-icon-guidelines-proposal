@@ -1,16 +1,55 @@
-So it's basically KDE's HIG for Breeze icons, except:
-- Shadows aren't to be cast on icons that go towards the bottom-right
-- NO bottom-right cast shadows unlike Breeze, basically
-- Shadows at the bottom of icons are still necessary
+Colorful Icons:
+- Icons should NOT be flat, as that makes them visually bland - use a variety of techniques such as gradients to give the icon depth
+- A base can be added to icons beneath the 'foreground' layer, but it's entirely optional
 
-In-icon shadows:
-- Stuff stuck onto the icon physically shouldn't cast shadows on the thing it's stuck to (e.g.: 'access' has the Accessibility logo stuck onto the circle)
-- Stuff that pertrudes out of the icon physically should cast a flat down shadow (e.g.: the gear in 'preferences-system')
-- If there's a rim around the icon border pertruding, like the 'preferences-system' rim, a soft shadow should be cast inside the rim area
-- If the item causing a downwards shadow (e.g.: 'accessories-text-editor') is semi-transparent, use a soft shadow. Otherwise use a flat shadow.
-- All upwards shadows are soft shadows (like the folder icons)
+Colorful Icons - Margins:
+- 4px border margin
+- Except 32px which has 2px border margin
+- and 64px which has a border margin of 3 pixels
 
-Don't override brand icons (excluding some of the pre-installed Feren OS applications - for ones that need a custom design badly pretty much, basically), yada-yada it's all otherwise currently in the README.md file.
+Colorful Icons - Shadows:
+- Icons MUST have a hard bottom shadow of 1px
+- 45 degree shadows do not fit with Inspire's design so should NOT be used
+- Directionless shadows are also allowed for adding depth to parts of icons
+- Do not cast shadows on stuff 'stuck' to the icon's base
+- Cast a flat 1px downwards shadow on stuff physically pertruding out of the base (unless the object's semi-transparent in which case use a soft shadow instead)
+- If there's a pertruding rim around the base, such as in System Settings's icon, cast a soft shadow from the inside ring of the rim inwards
+- All shadows that go in directions other than down are always soft shadows
+
+Colorful Icons - Folder Icons:
+- Lines on symbols on folder icons must be 1px in thickness
+- Non-line portions of symbols must be filled in
+- Symbols on folders must be white
+- Symbols are stuck to the folders and so DO NOT cast shadows
+
+Colorful Icons - Mimetype/Filetype Icons:
+- (to be done)
+
+
+Monochromatic Icons:
+- Icons follow these three pieces of the colour scheme:
+  - Foreground for all of the symbols when there's no status to convey
+  - Negative Text for portions of a symbol that denote destructive or otherwise bad actions or statuses, such as X symbols in Delete, or even error symbols in error icons
+  - Neutral Text for portions of a symbol that denote warning statuses, such as warning symbols, as well as 'needs user interaction' statuses, such as the indicator circle of an Updates Available icon
+  - Positive Text for portions of a symbol that denote success statuses, such as a Tasks Complete icon
+  
+- Make ABSOLUTELY sure that monochromatic icons are pixel-perfect in alignment and sizing wherever possible, otherwise icons will look blurry in execution
+- Clear out space for symbols, such as action symbols, in these icons - do not overlay symbols, such as action symbols, over the icon itself
+- When clearing out space for them, also clear out an extra pixel of space around the symbol
+- DO NOT use monochromatic icons on sizes higher than 22px (for 'symbolic' icons just symlink the 22px icons on higher sizes) - the ONLY EXCEPTION to this rule is System Settings's symbolic icons
+- When using colours in your icons, MAKE SURE the icons' meanings are still legible without colour being required
+- Reuse the symbols of Folder and Mimetype icons as the symbols of their monochromatic equivalents
+  
+Monochromatic Icons - Margins:
+- 16px icons use 2px border margins
+- 22px icons use 3px border margins
+- 8px icons (just emblems) DO NOT have margins around them at all
+
+
+Extra Icon design guidelines:
+- DO NOT theme third-party icons - the only exception to this rule is the icons of applications pre-installed in Feren OS
+- Wireframe icons MUST be tweaked to follow the 'foreground' colour in applications
+- Folder icons MUST be tweaked to follow the colour scheme's 'selected background' colour in general use (where Feren OS blue would otherwise be used)
 
 
 
