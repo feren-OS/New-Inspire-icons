@@ -1,4 +1,4 @@
-<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
         color:#006aff;
@@ -6,14 +6,22 @@
       .ColorScheme-HighlightedText {
         color:#ffffff;
       }</style>
-        <linearGradient id="linearGradient876" x1="4" x2="4" y1="10" y2="47" gradientTransform="translate(0,1)" gradientUnits="userSpaceOnUse">
-            <stop stop-opacity="0" offset="0"/>
-            <stop stop-opacity=".054902" offset="1"/>
+        <linearGradient id="linearGradient876" x1="60" x2="4" y1="10" y2="52" gradientTransform="translate(0,1)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity=".08" offset="0"/>
+            <stop stop-color="#fff" stop-opacity=".28" offset=".11904762"/>
+            <stop stop-color="#fff" stop-opacity=".20784312" offset=".3392857"/>
+            <stop stop-color="#fff" stop-opacity="0" offset=".61904764"/>
+            <stop stop-color="#fff" stop-opacity=".28" offset="1"/>
+        </linearGradient>
+        <linearGradient id="linearGradient877" x1="4" x2="4" y1="53" y2="48" gradientUnits="userSpaceOnUse">
+            <stop stop-opacity=".56" offset="0"/>
+            <stop stop-color="#1a1a1a" stop-opacity=".56078434" offset="1"/>
         </linearGradient>
     </defs>
     <rect class="ColorScheme-Highlight" x="4" y="14" width="56" height="40" rx="3" ry="3" fill="currentColor"/>
     <path d="m4 49v2c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-2z" fill-opacity=".87" stroke-linecap="round" stroke-width="4"/>
     <path class="ColorScheme-Highlight" d="m7 11h50c1.662 0 3 1.338 3 3v36c0 1.662-1.338 3-3 3h-50c-1.662 0-3-1.338-3-3v-36c0-1.662 1.338-3 3-3z" fill="currentColor"/>
     <path class="ColorScheme-Highlight" d="m7 11h50c1.662 0 3 1.338 3 3v36c0 1.662-1.338 3-3 3h-50c-1.662 0-3-1.338-3-3v-36c0-1.662 1.338-3 3-3z" fill="url(#linearGradient876)"/>
-    <path d="m4 48v2c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-2z" fill-opacity=".6" stroke-linecap="round" stroke-width="4"/>
+    <path d="m4 47v3c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-3z" fill="url(#linearGradient877)" stroke-linecap="round" stroke-width="4"/>
+    <rect id="north-top-border" transform="matrix(0,-1,-1,0,0,0)" x="-48.000008" y="-60" width="1.0000068" height="56" fill="#fff" fill-opacity=".4"/>
 </svg>

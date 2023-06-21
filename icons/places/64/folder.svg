@@ -1,32 +1,161 @@
-<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg38"
+   sodipodi:docname="folder.svg"
+   inkscape:version="1.0.1 (1.0.1+r73)">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="12.96875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <defs
+     id="defs16">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Highlight {
         color:#006aff;
       }
       .ColorScheme-HighlightedText {
         color:#ffffff;
       }</style>
-  <linearGradient id="linearGradient1893" x2="0" y1="43" y2="35.79661" gradientTransform="matrix(.453125 0 0 .5552941 3 -.8776383)" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".1568628" offset="0"/>
-   <stop stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient887" x1="12" x2="12" y1="39.41328" y2="17.414" gradientTransform="matrix(1.45 0 0 1.545454 -14.4 -3.912799)" gradientUnits="userSpaceOnUse">
-   <stop stop-opacity=".05490196" offset="0"/>
-   <stop stop-color="#000008" stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <filter id="filter881" x="-.05318182" y="-.06882353" width="1.106364" height="1.137647" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.97499995"/>
-  </filter>
- </defs>
- <path class="ColorScheme-Highlight" d="m3 24h58v29.40541c0 2.545406-2.020939 4.594594-4.53125 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z" fill="currentColor"/>
- <title>base_folder</title>
- <desc>Created with Sketch.</desc>
- <path d="M 3,24 H 61 V 53.405406 C 61,55.950812 58.979061,58 56.46875,58 H 7.53125 C 5.020938,58 3,55.950812 3,53.405406 Z" fill-opacity=".27451" stroke-width=".425735"/>
- <path id="Combined-Shape" class="ColorScheme-Highlight" d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111776,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111776,7 7.7154466,7 H 26.105688 Z" fill="currentColor"/>
- <path d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111765,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111765,7 7.7154466,7 H 26.105688 Z" fill-opacity=".1568628" stroke-width=".474885"/>
- <rect x="10" y="18.02041" width="44" height="34" rx="3.4375" fill-opacity=".1568628" filter="url(#filter881)" stroke-width=".37081"/>
- <rect x="10" y="18.02041" width="44" height="34" rx="3.4375" fill="#fff"/>
- <path id="Rectangle" class="ColorScheme-Highlight" d="m3 23h58v29.40541c0 2.545405-2.020939 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049189-4.53125-4.594594v-29.40541z" fill="currentColor"/>
- <path d="m3 22.99975h58v29.40541c0 2.545406-2.02094 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z" fill="url(#linearGradient887)" stroke-width=".4257346"/>
- <rect x="3" y="19" width="58" height="4" fill="url(#linearGradient1893)"/>
+    <linearGradient
+       id="linearGradient1893"
+       x2="0"
+       y1="43"
+       y2="35.79661"
+       gradientTransform="matrix(.453125 0 0 .5552941 3 -.8776383)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-opacity=".1568628"
+         offset="0"
+         id="stop3" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient887"
+       x1="12"
+       x2="12"
+       y1="39.41328"
+       y2="17.414"
+       gradientTransform="matrix(1.45 0 0 1.545454 -14.4 -3.912799)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-opacity=".05490196"
+         offset="0"
+         id="stop8" />
+      <stop
+         stop-color="#000008"
+         stop-opacity="0"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <filter
+       id="filter881"
+       x="-.05318182"
+       y="-.06882353"
+       width="1.106364"
+       height="1.137647"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.97499995"
+         id="feGaussianBlur13" />
+    </filter>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     d="m3 24h58v29.40541c0 2.545406-2.020939 4.594594-4.53125 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z"
+     fill="currentColor"
+     id="path18" />
+  <title
+     id="title20">base_folder</title>
+  <desc
+     id="desc22">Created with Sketch.</desc>
+  <path
+     d="M 3,24 H 61 V 53.405406 C 61,55.950812 58.979061,58 56.46875,58 H 7.53125 C 5.020938,58 3,55.950812 3,53.405406 Z"
+     fill-opacity=".27451"
+     stroke-width=".425735"
+     id="path24" />
+  <path
+     id="Combined-Shape"
+     class="ColorScheme-Highlight"
+     d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111776,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111776,7 7.7154466,7 H 26.105688 Z"
+     fill="currentColor" />
+  <path
+     d="M 32.23577,12.738988 H 56.284551 C 58.88882,12.738988 61,14.880181 61,17.521477 V 52.217558 C 61,54.858861 58.88882,57 56.284551,57 H 7.7154466 C 5.1111765,57 3,54.858861 3,52.217558 V 11.782491 C 3,9.1411937 5.1111765,7 7.7154466,7 H 26.105688 Z"
+     fill-opacity=".1568628"
+     stroke-width=".474885"
+     id="path27" />
+  <rect
+     x="10"
+     y="18.02041"
+     width="44"
+     height="34"
+     rx="3.4375"
+     fill-opacity=".1568628"
+     filter="url(#filter881)"
+     stroke-width=".37081"
+     id="rect29" />
+  <rect
+     x="10"
+     y="18.02041"
+     width="44"
+     height="34"
+     rx="3.4375"
+     fill="#fff"
+     id="rect31" />
+  <path
+     id="Rectangle"
+     class="ColorScheme-Highlight"
+     d="m3 23h58v29.40541c0 2.545405-2.020939 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049189-4.53125-4.594594v-29.40541z"
+     fill="currentColor" />
+  <path
+     d="m3 22.99975h58v29.40541c0 2.545406-2.02094 4.594594-4.531251 4.594594h-48.9375c-2.510312 0-4.53125-2.049188-4.53125-4.594594v-29.40541z"
+     fill="url(#linearGradient887)"
+     stroke-width=".4257346"
+     id="path34" />
+  <rect
+     x="3"
+     y="19"
+     width="58"
+     height="4"
+     fill="url(#linearGradient1893)"
+     id="rect36" />
 </svg>
